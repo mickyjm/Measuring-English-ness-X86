@@ -3,7 +3,7 @@ Measuring English-ness in X86 Assembly for ICS 312
 
 <img src="images/screen.png" />
 
-Run:
+Compile and Run:
 ```
 $ make
 $ ./hw5_ex1
